@@ -1,0 +1,28 @@
+.spendTotal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left__1{
+    margin: 0;
+    margin-bottom: 0.4rem;
+    font-size: 0.75rem;
+}
+.left__2{
+    margin: 0;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.right__1{
+    margin: 0;
+    margin-bottom: 0.4rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-align: end;
+}
+.right__2{
+    margin: 0;
+    font-size: 0.75rem;
+}

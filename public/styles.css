@@ -4,4 +4,8 @@
 html{
     width: 100%;
     font-family: 'DM Sans', sans-serif;
+    font-size: 1.125rem;
+}
+body{
+    margin: 0
 }

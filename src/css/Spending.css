@@ -1,0 +1,15 @@
+.spending{
+    background-color: hsl(33, 100%, 98%);
+    width: 100%;
+    padding: 1rem;
+    border-radius: 0.625rem;
+}
+.spending__heading{
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 0;
+}
+hr{
+    border: 2px solid hsl(27, 66%, 92%);
+    border-bottom: 0;
+}

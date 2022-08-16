@@ -1,0 +1,23 @@
+.myBalance{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: hsl(10, 79%, 65%);
+    border-radius: 0.625rem;
+    color: hsl(33, 100%, 98%);
+    margin-bottom: 1rem;
+}
+.item__1{
+    margin-top: 0;
+    margin-bottom: 0.4rem;
+    font-size: 0.75rem;
+}
+.item__2{
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
