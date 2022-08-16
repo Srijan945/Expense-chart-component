@@ -13,3 +13,8 @@ hr{
     border: 2px solid hsl(27, 66%, 92%);
     border-bottom: 0;
 }
+@media only screen and (min-width: 450px) {
+    .spending {
+      width: 450px;
+    }
+  }
