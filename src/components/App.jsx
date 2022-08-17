@@ -4,11 +4,11 @@ import Spending from './Spending';
 import Footer from './Footer';
 function App() {
   return (
-    <div className="App">
+    <main className="App">
         <MyBalance />
         <Spending />
         <Footer />
-    </div>
+    </main>
   );
 }
 
